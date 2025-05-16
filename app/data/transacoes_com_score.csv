@@ -12,3 +12,7 @@ hash,from,to,value,token,timestamp,score
 0xdef456,0xInstituicaoA,0xParceiroOficial,1.0,ETH,2025-05-15T15:30:00,100
 0xabc124,0xInstituicaoA,0xCarteiraRisco,10.5,ETH,2025-05-15T10:00:00,40
 0xabc134,0xInstituicaoA,0xCarteiraRisco,10.2,ETH,2025-05-15T12:00:00,40
+0xabc123,0xGilson,0xCarteiraRisco,60.5,ETH,2025-05-15T10:00:00,40
+0xdef456,0xDaniel,0xParceiroOficial,71.0,ETH,2025-05-15T15:30:00,80
+0xabc124,0xArthur,0xCarteira,80.5,ETH,2025-05-15T10:00:00,80
+0xabc134,0xKelvin,0xCarteiraRisco,70.2,ETH,2025-05-15T12:00:00,40

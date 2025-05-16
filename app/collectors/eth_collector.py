@@ -8,33 +8,33 @@ def collect_transactions():
     transactions = [
         {
             "hash": "0xabc123",
-            "from": "0xInstituicaoA",
+            "from": "0xGilson",
             "to": "0xCarteiraRisco",
-            "value": 10.5,  # em ETH
+            "value": 60.5,  # em ETH
             "token": "ETH",
             "timestamp": "2025-05-15T10:00:00"
         },
         {
             "hash": "0xdef456",
-            "from": "0xInstituicaoA",
+            "from": "0xDaniel",
             "to": "0xParceiroOficial",
-            "value": 1.0,
+            "value": 71.0,
             "token": "ETH",
             "timestamp": "2025-05-15T15:30:00"
         },
         {
             "hash": "0xabc124",
-            "from": "0xInstituicaoA",
-            "to": "0xCarteiraRisco",  # está na blacklist
-            "value": 10.5,
+            "from": "0xArthur",
+            "to": "0xCarteira",  
+            "value": 80.5,
             "token": "ETH",
             "timestamp": "2025-05-15T10:00:00"
         },
         {
             "hash": "0xabc134",
-            "from": "0xInstituicaoA",
+            "from": "0xKelvin",
             "to": "0xCarteiraRisco",  # está na blacklist
-            "value": 10.2,
+            "value": 70.2,
             "token": "ETH",
             "timestamp": "2025-05-15T12:00:00"
         }
